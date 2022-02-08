@@ -1,0 +1,8 @@
+com\practice\qa\pages\AccountPage.class
+com\practice\qa\utils\Utility.class
+com\practice\qa\pages\LandingPage.class
+com\practice\qa\pages\SearchPage.class
+com\practice\qa\pages\LoginPage.class
+com\practice\qa\pages\ShoppingCart.class
+com\practice\qa\utils\Constants.class
+com\practice\qa\base\TestBase.class

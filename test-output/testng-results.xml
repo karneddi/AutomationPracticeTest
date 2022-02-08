@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="27406" started-at="2022-02-08T17:39:14 CAT" finished-at="2022-02-08T17:39:42 CAT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="27406" started-at="2022-02-08T17:39:14 CAT" finished-at="2022-02-08T17:39:42 CAT">
+      <class name="com.practice.qa.testcases.TC6">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.practice.qa.testcases.TC6@436e852b]" name="setup" is-config="true" duration-ms="1774" started-at="2022-02-08T17:39:14 CAT" finished-at="2022-02-08T17:39:16 CAT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="navigateAndSearch()[pri:0, instance:com.practice.qa.testcases.TC6@436e852b]" name="navigateAndSearch" duration-ms="24896" started-at="2022-02-08T17:39:16 CAT" finished-at="2022-02-08T17:39:41 CAT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigateAndSearch -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.practice.qa.testcases.TC6@436e852b]" name="tearDown" is-config="true" duration-ms="704" started-at="2022-02-08T17:39:41 CAT" finished-at="2022-02-08T17:39:42 CAT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.practice.qa.testcases.TC6 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
